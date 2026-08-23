@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Lavanya Raj Singh 👋
 
-<!--
-**Lavanya25088/Lavanya25088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
+🔧 Interested in Embedded Systems, VLSI and Computer Vision
+🚀 Currently building Arduino/ESP32 and OpenCV projects
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- C Programming
+- Arduino
+- ESP32
+- Embedded Systems
+- Basic Electronics
+- Verilog (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Digital Electronics
+- Verilog HDL
+- Embedded Systems
+- OpenCV
+
+## 🚀 Projects
+- Fire Detection and Alert System
+- RFID Access Control System
+- Driver Drowsiness Detection System
+
+## 🎯 Goals
+To build strong skills in Embedded Systems, VLSI and Computer Vision.
+
